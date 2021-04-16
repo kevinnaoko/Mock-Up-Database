@@ -1,0 +1,21 @@
+No;NIK;NamaLengkap;TempatLahir;TanggalLahir;Umur;JenisKelamin;GolonganDarah;Status;Pekerjaan
+1;1234567890;Kevin Naoko;Jakarta;06142000;19;L;AB Rh;Kawin;Pegawai Swasta
+2;0999820635;Cintia Damanik;Bandar Lampung;01021981;39;P;B;Kawin;Pegawai Swasta
+3;1002861756;Sofie Agustin;Bandung;01031982;38;P;AB;Tidak Kawin;PNS
+4;1005912127;Elly Sugigi;Cirebon;01041983;37;P;B;Tidak Kawin;PNS
+5;1008971776;Bambang Sutikno;Sumedang;01051984;36;L;AB;Kawin;Wiraswasta
+6;1012040732;Eugine Batubara;Garut;01061985;34;L;A;Tidak Kawin;PNS
+7;1015119023;Michael Tambuan;Tegal;01071986;33;L;O;Kawin;Wiraswasta
+8;1018206677;Melanie Hughes;Tangerang Selatan;15061987;32;P;AB;Kawin;Wiraswasta
+9;1021303722;Butet Sayang;Pekalongan;16071988;31;P;O;Kawin;Pegawai Swasta
+10;1024410187;Uda Wahab;Yogyakarta;17081989;30;L;AB;Tidak Kawin;Pegawai Swasta
+11;1027526102;Ayu Lestari;Surabaya;18091990;29;P;O;Tidak Kawin; PNS
+12;1030651494;Limbad Magician;Madiun;19101991;28;L;A;Kawin;Pegawai Swasta
+13;0902161017;Scott Triswara;Banyuwangi;20111981;38;L;AB;Kawin;PNS
+14;0907047723;Mike R. Silva;Tulungagung;21121982;37;L;B;Tidak Kawin;PNS
+15;0911960898;Inggrid Yusti;Kediri;22011983;37;P;AB;Kawin;Wiraswasta
+16;9016900686;Indri Marta;Purwokerto;23021984;36;P;O;Kawin;Pegawai Swasta
+17;9021867231;Ipin Coldman;Cilacap;24031985;35;L;B;Tidak Kawin;PNS
+18;9026860679;Upin Coldman;Cilacap;25041984;36;L;O;Tidak Kawin;PNS
+19;9031881174;Tamtam Sutami;Cepu;26021981;39;L;B;Kawin;Wiraswasta
+20;9036928864;Maya S. Katima;Batang;30011988;32;P;O;Kawin;Pegawai Swasta
